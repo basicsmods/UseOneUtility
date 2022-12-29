@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\UseOneUtility\1.4\Assemblies\TestingMod.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\UseOneUtility\1.4\Assemblies\TestingMod.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\UseOneUtility\Source\obj\Debug\UseOneUtility.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\UseOneUtility\Source\obj\Debug\UseOneUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\UseOneUtility\Source\obj\Debug\UseOneUtility.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\UseOneUtility\Source\obj\Debug\UseOneUtility.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\UseOneUtility\Source\obj\Debug\UseOneUtility.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\UseOneUtility\Source\obj\Debug\TestingMod.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\UseOneUtility\Source\obj\Debug\TestingMod.pdb
